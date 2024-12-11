@@ -6,3 +6,5 @@
 
 <h7 align= "center"> :handshake: One of my favorite sets of code that I had to write is [Project3](https://github.com/Wiley2019/CS121Portfolio/tree/CS121/Project3) 
 
+<h9 align= "center"> :money_mouth_face: One of my money makers :) [Movie Theater](https://github.com/Wiley2019/CS121Portfolio/blob/CS121/WeekSeven/MovieSimulationThree.java) </h9>
+
