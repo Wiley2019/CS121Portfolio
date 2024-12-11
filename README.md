@@ -11,6 +11,6 @@
 
 | Week Number | Item | Description|
 |:----: | ------| -----------|
-| Week Seven|
+| 7|      |
 
 
