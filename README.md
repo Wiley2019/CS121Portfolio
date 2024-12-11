@@ -4,4 +4,5 @@
 <h4 align= "left"> In my years of education and schooling, I had to take some of the work and upload it here for many to see. With everything I have experienced in my journey through school, I have made my life a lot easier while coding and writing programs; having an example of what I want to look back at while working on new items allows for better work.  </h4>
 
 
-<h7 align= "center"> :handshake: One of my favorite sets of code that i had to write is [Project3](https://github.com/Wiley2019/CS121Portfolio/tree/CS121/Project3) </h7>
+<h7 align= "center"> :handshake: One of my favorite sets of code that I had to write is [Project3](https://github.com/Wiley2019/CS121Portfolio/tree/CS121/Project3) 
+
