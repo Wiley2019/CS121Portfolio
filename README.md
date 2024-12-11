@@ -11,7 +11,6 @@
 
 | Week Number | Item | Description|
 |:----: | ------| -----------|
-| [Week Seven](https://github.com/Wiley2019/CS121Portfolio/tree/CS121/WeekSeven)| [Act 14](https://github.com/Wiley2019/CS121Portfolio/blob/CS121/WeekSeven/MovieSimulationThree.java) & 
-[Act 15](https://github.com/Wiley2019/CS121Portfolio/blob/CS121/WeekSeven/TestCars.java|
+| [Week Seven](https://github.com/Wiley2019/CS121Portfolio/tree/CS121/WeekSeven)| [Act 14](https://github.com/Wiley2019/CS121Portfolio/blob/CS121/WeekSeven/MovieSimulationThree.java) & [Act 15](https://github.com/Wiley2019/CS121Portfolio/blob/CS121/WeekSeven/TestCars.java)|
 
 
