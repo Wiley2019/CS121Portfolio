@@ -11,6 +11,6 @@
 
 | Week Number | Item | Description|
 |:----: | ------| -----------|
-| 7|      |
+| [Week Seven](https://github.com/Wiley2019/CS121Portfolio/tree/CS121/WeekSeven)|      |
 
 
