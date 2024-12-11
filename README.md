@@ -8,3 +8,9 @@
 
 <h9 align= "center"> :money_mouth_face: One of my money makers :) [Movie Theater](https://github.com/Wiley2019/CS121Portfolio/blob/CS121/WeekSeven/MovieSimulationThree.java) </h9>
 
+
+| Week Number | Item | Description|
+|:----: | ------| -----------|
+| Week Seven|
+
+
